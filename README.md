@@ -1,2 +1,5 @@
-# modulogithub
-Repositório das práticas do curso de Git/GitHub para o módulo específico do GitHub.
+# Bem vindo ao curso Git e Github.(modulogithub)
+Neste curso você vai aprender a dominar todo git e githubdo 0 ao profissional.
+
+## Módulos:
+Entendendo o que é git, aprendendo sobre repositórios. Trabalhando com branches
