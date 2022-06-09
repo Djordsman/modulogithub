@@ -12,3 +12,7 @@ Neste curso você vai aprender a dominar todo **git** e **githubdo** _do 0 ao pr
 ### Rede social:
 [Instagram](https://instagram.com/sujeitoprogramador) <br>
 [YouTube](https://youtube.com/c/sujeitoprogramador)
+
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada
