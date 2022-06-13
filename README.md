@@ -22,7 +22,8 @@ Neste curso você vai aprender a dominar todo **git** e **githubdo** _do 0 ao pr
 >
 >Segunda area destacada
 
-**Comando para executar o projeto:**
+
+### Comando para executar o projeto:
 
 ```
 npm start
